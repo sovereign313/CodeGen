@@ -1,4 +1,4 @@
-# ChatGPT/Bard Code Generator CLI
+# ChatGPT/Bard/Grok Code Generator CLI
 
 ## Why This Exists
 
